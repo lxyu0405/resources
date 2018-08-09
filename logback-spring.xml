@@ -3,8 +3,8 @@
 
     <contextName>logback</contextName>
 
-    <property name="logback.logdir" value="FileSystem/Log"/>
-    <property name="logback.appname" value="pdl-server"/>
+    <property name="logback.logdir" value="LOGDIR"/>
+    <property name="logback.appname" value="APP_NAME"/>
 
     <!-- ConsoleAppender-->
     <appender name="consoleLogger" class="ch.qos.logback.core.ConsoleAppender">
