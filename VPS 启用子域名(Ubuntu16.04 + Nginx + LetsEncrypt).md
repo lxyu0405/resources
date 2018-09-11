@@ -8,7 +8,7 @@
 #### Step1. DNS管理中添加域名
 * 完后通过ping来验证域名是否可通
 * 例如：Vultr
-* ![Vultr DNS Management](https://github.com/lxyu0405/resources/images/vultr-dns-manage.png)
+* ![Vultr DNS Management](https://github.com/lxyu0405/resources/blob/update/images/vultr-dns-manage.png)
 
 #### Step2. Nginx enable New Server
 * copy [nginx default config](https://github.com/lxyu0405/resources/blob/update/nginx-default) to /etc/nginx/sites-available/, and give it a new name.
@@ -32,7 +32,7 @@
 #### Step3. Https for new domain
 * If first time, go for this tutorial.  
 	* [how-to-set-up-let-s-encrypt-with-nginx-server-blocks-on-ubuntu-16-04](https://www.digitalocean.com/community/tutorials/how-to-set-up-let-s-encrypt-with-nginx-server-blocks-on-ubuntu-16-04)
-	* ![how-to-set-up-let-s-encrypt-with-nginx-server-blocks-on-ubuntu-16-04](https://github.com/lxyu0405/resources/digitalocean-tutorials/letsencrypt-nginx.png)
+	* ![how-to-set-up-let-s-encrypt-with-nginx-server-blocks-on-ubuntu-16-04](https://github.com/lxyu0405/resources/blob/update/digitalocean-tutorials/letsencrypt-nginx.png)
 * If add one more submain. Just
 ```zsh
 > sudo certbot -d new-domain.com
