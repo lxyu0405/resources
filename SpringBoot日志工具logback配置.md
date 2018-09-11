@@ -37,7 +37,7 @@
     }
     ```
   
-### log config file
+### Log config file
 * Add `logback-spring.xml` at resources directory, and Spring Boot would automatically load it.
 * [Share my logback-spring.xml](https://github.com/lxyu0405/resources/blob/master/logback-spring.xml)
 
