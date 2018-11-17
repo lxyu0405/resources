@@ -4,6 +4,7 @@
 * [.vimrc](https://github.com/lxyu0405/resources/blob/update/.vimrc) for vim config
 * [logback-spring.xml](https://github.com/lxyu0405/resources/blob/update/logback-spring.xml) for spring-boot
 * [nginx-default](https://github.com/lxyu0405/resources/blob/update/nginx-default) for nginx virtual host default config
+* [mvn settings.xml](https://github.com/lxyu0405/resources/blob/update/settings.xml) for maven settings
 
 ## Blogs
 * [VPS 启用子域名(Ubuntu16.04 + Nginx + LetsEncrypt)](https://github.com/lxyu0405/resources/blob/update/VPS%20%E5%90%AF%E7%94%A8%E5%AD%90%E5%9F%9F%E5%90%8D(Ubuntu16.04%20%2B%20Nginx%20%2B%20LetsEncrypt).md)
